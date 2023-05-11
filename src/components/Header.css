@@ -12,3 +12,10 @@
   font-family: monospace;
   font-size: 30px;
 }
+
+.logout-btn {
+  padding: 10px;
+  border-style: none;
+  background-color: #f00;
+  border-radius: 10px;
+}
